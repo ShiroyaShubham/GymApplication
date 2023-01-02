@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GymApplication</string>
+    <string name="CoachCulture">Coachculture</string>
+    <string name="signupascoach">SIGNUP AS A COACH</string>
+    <string name="EditProfile">EDIT PROFILE</string>
+    <string name="Save">Save</string>
+    <string name="Delete">Delete Account</string>
+</resources>
